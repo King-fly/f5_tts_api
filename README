@@ -1,0 +1,24 @@
+# F5-TTS API
+
+F5-TTS API 是一个用于文本转语音（Text-to-Speech, TTS）的后端服务。
+
+## 功能
+
+- 支持多种语音合成模型
+- RESTful API 接口
+- 支持多种音频格式输出
+
+## 安装
+
+1. 克隆本仓库：
+    ```
+    git clone https://github.com/King-fly/f5_tts_api.git
+    ```
+2. 安装依赖：
+    ```
+    pip install -r requirements.txt
+    ```
+
+## 使用
+
+启动服务：
